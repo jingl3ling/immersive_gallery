@@ -18,7 +18,7 @@ _An infinite 3D canvas built with React Three Fiber for exploring and displaying
 
 ## Getting Started
 
-Visit https://kaleidoscopic-sorbet-75861e.netlify.app/
+[Visit https://immersive.bringezback.com/](https://immersive.bringezback.com/)
 
 ```bash
 npm install
